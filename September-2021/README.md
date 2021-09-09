@@ -4,4 +4,4 @@
 
 
 9. [LargestPlusSign - Day 9](https://github.com/wupangyen/Code-Buff/blob/main/September-2021/LargestPlusSign.java)
-   [Thought Process](https://1drv.ms/u/s!Ak9rLfifYWsmpQB3XGlHd4SBQ8oL)
+*[Thought Process](https://1drv.ms/u/s!Ak9rLfifYWsmpQB3XGlHd4SBQ8oL)
