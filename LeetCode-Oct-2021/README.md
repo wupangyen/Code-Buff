@@ -6,4 +6,7 @@
 * [1512. Number of Good Pairs Thought Process](https://1drv.ms/u/s!Ak9rLfifYWsmpQB3XGlHd4SBQ8oL)
 
 [1365. How Many Numbers Are Smaller Than the Current Number](https://github.com/wupangyen/Code-Buff/blob/main/LeetCode-Oct-2021/HowManyNumbersAreSmallerThantheCurrentNumber.java)
-* [1365. How Many Numbers Are Smaller Than the Current Number](https://1drv.ms/u/s!Ak9rLfifYWsmpQ10Ckz9t2iGB96C)
+* [1365. How Many Numbers Are Smaller Than the Current Number One Note](https://1drv.ms/u/s!Ak9rLfifYWsmpQ10Ckz9t2iGB96C)
+
+[1528. Shuffle String](https://github.com/wupangyen/Code-Buff/blob/main/LeetCode-Oct-2021/HowManyNumbersAreSmallerThantheCurrentNumber.java)
+* [1528. Shuffle String One Note](https://1drv.ms/u/s!Ak9rLfifYWsmpRTVARb1u1s7sbY6)
