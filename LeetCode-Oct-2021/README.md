@@ -15,7 +15,7 @@
 [1720. Decode XORed Array](https://github.com/wupangyen/Code-Buff/blob/main/LeetCode-Oct-2021/DecodeXORedArray.java)
 * [1720. Decode XORed Array One Note](https://1drv.ms/u/s!Ak9rLfifYWsmpRu4dRtWyOAAjfz4)
 
-[1313. Decompress Run-Length Encoded List](https://github.com/wupangyen/Code-Buff/blob/main/LeetCode-Oct-2021/DecompressRun-LengthEncodedList.java)
+[1313. Decompress Run-Length Encoded List](https://github.com/wupangyen/Code-Buff/blob/main/LeetCode-Oct-2021/DecompressRunLengthEncodedList.java)
 * [1313. Decompress Run-Length Encoded List One Note](https://1drv.ms/u/s!Ak9rLfifYWsmpSKetcnYMh4OwUpy)
 
 
