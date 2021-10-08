@@ -20,5 +20,6 @@
 
 [2006. Count Number of Pairs With Absolute Difference K](https://github.com/wupangyen/Code-Buff/blob/main/LeetCode-Oct-2021/CountNumberofPairsWithAbsoluteDifferenceK.java)
 * [2006. Count Number of Pairs With Absolute Difference K One Note](https://1drv.ms/u/s!Ak9rLfifYWsmpSlpgHIY6Iux2dhb)
+* [2006. Count Number of Pairs With Absolute Difference K Youtube](https://youtu.be/EDbvOZddsJE)
 
 
