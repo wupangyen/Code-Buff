@@ -26,4 +26,7 @@
 * [1773. Count Items Matching a Rule One Note](https://1drv.ms/u/s!Ak9rLfifYWsmpS2cD8DAuhEliU2w)
 * [1773. Count Items Matching a Rule Youtube](https://youtu.be/oj1DklYBllA)
 
+9. [760.Find Anagram Mappings Code](https://github.com/wupangyen/Code-Buff/blob/main/LeetCode-Oct-2021/FindAnagramMappings.java)
+* [760.Find Anagram Mappings  One Note](https://1drv.ms/u/s!Ak9rLfifYWsmpTFYXiGApj1Oz4FZ)
+* [760.Find Anagram Mappings Youtube](https://youtu.be/7hEPPNfj7PM)
 
