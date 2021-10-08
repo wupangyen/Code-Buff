@@ -22,4 +22,8 @@
 * [2006. Count Number of Pairs With Absolute Difference K One Note](https://1drv.ms/u/s!Ak9rLfifYWsmpSlpgHIY6Iux2dhb)
 * [2006. Count Number of Pairs With Absolute Difference K Youtube](https://youtu.be/EDbvOZddsJE)
 
+8. [1773. Count Items Matching a Rule Code](https://github.com/wupangyen/Code-Buff/blob/main/LeetCode-Oct-2021/CountItemsMatchingaRule .java)
+* [1773. Count Items Matching a Rule One Note](https://1drv.ms/u/s!Ak9rLfifYWsmpS2cD8DAuhEliU2w)
+* [1773. Count Items Matching a Rule Youtube](https://youtu.be/oj1DklYBllA)
+
 
