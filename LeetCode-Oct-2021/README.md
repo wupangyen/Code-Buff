@@ -30,3 +30,6 @@
 * [760.Find Anagram Mappings  One Note](https://1drv.ms/u/s!Ak9rLfifYWsmpTFYXiGApj1Oz4FZ)
 * [760.Find Anagram Mappings Youtube](https://youtu.be/7hEPPNfj7PM)
 
+10. [1588. Sum of All Odd Length Subarrays](https://github.com/wupangyen/Code-Buff/blob/main/LeetCode-Oct-2021/SumofAllOddLengthSubarrays.java)
+* [1588. Sum of All Odd Length Subarrays  One Note](https://1drv.ms/u/s!Ak9rLfifYWsmpTU2qKlbJqXor8Wb)
+* [1588. Sum of All Odd Length Subarrays Youtube](https://youtu.be/7hEPPNfj7PM)
