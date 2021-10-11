@@ -33,3 +33,7 @@
 10. [1588. Sum of All Odd Length Subarrays Code](https://github.com/wupangyen/Code-Buff/blob/main/LeetCode-Oct-2021/SumofAllOddLengthSubarrays.java)
 * [1588. Sum of All Odd Length Subarrays  One Note](https://1drv.ms/u/s!Ak9rLfifYWsmpTU2qKlbJqXor8Wb)
 * [1588. Sum of All Odd Length Subarrays Youtube](https://youtu.be/aA2WCvZNWk0)
+
+11. [1656. Design an Ordered Stream Code](https://github.com/wupangyen/Code-Buff/blob/main/LeetCode-Oct-2021/DesignanOrderedStreamCode.java)
+* [1656. Design an Ordered Stream  One Note](https://1drv.ms/u/s!Ak9rLfifYWsmpTlnSiyR9dGRSb_C)
+* [1656. Design an Ordered Stream Youtube](https://youtu.be/dt1SJmyghv4)
