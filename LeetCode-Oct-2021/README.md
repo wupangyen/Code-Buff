@@ -42,4 +42,5 @@
 * [1662. Check If Two String Arrays are Equivalent Youtube](https://youtu.be/K3pFHVs2oTk)
 
 13. [1684. Count the Number of Consistent Strings Code](https://github.com/wupangyen/Code-Buff/blob/main/LeetCode-Oct-2021/CounttheNumberofConsistentStrings.java)
-* [1684. Count the Number of Consistent Strings Youtube](https://youtu.be/K3pFHVs2oTk)
+* [1684. Count the Number of Consistent Strings Youtube](https://youtu.be/kMwPlsZZ29c)
+* [1684. Count the Number of Consistent Strings  One Note](https://1drv.ms/u/s!Ak9rLfifYWsmpT0x_MELm7DkjoTE)
