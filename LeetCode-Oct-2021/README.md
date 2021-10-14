@@ -48,3 +48,8 @@
 14. [1913. Maximum Product Difference Between Two Pairs Code](https://github.com/wupangyen/Code-Buff/blob/main/LeetCode-Oct-2021/MaximumProductDifferenceBetweenTwoPairs.java)
 * [1913. Maximum Product Difference Between Two Pairs Youtube](https://youtu.be/QdHcqOhftGE)
 * [1913. Maximum Product Difference Between Two Pairs  One Note](https://1drv.ms/u/s!Ak9rLfifYWsmpUE7B7p9LIQ_jLEx)
+
+
+15. [1816. Truncate Sentence Code](https://github.com/wupangyen/Code-Buff/blob/main/LeetCode-Oct-2021/TruncateSentence.java)
+* [1816. Truncate Sentence Youtube](https://youtu.be/M2lhOEvOhQY)
+
