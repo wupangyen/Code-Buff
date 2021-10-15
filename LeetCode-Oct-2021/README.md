@@ -53,3 +53,6 @@
 15. [1816. Truncate Sentence Code](https://github.com/wupangyen/Code-Buff/blob/main/LeetCode-Oct-2021/TruncateSentence.java)
 * [1816. Truncate Sentence Youtube](https://youtu.be/M2lhOEvOhQY)
 
+16. [1534. Count Good Triplets Code](https://github.com/wupangyen/Code-Buff/blob/main/LeetCode-Oct-2021/TruncateSentence.java)
+* [1534. Count Good Triplets Youtube](https://youtu.be/M2lhOEvOhQY)
+
