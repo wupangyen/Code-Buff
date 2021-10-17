@@ -58,5 +58,5 @@
 
 
 17. [804. Unique Morse Code Words Code](https://github.com/wupangyen/Code-Buff/blob/main/LeetCode-Oct-2021/UniqueMorseCodeWords.java)
-* [804. Unique Morse Code Words Youtube](https://youtu.be/XQOxgo5wtJU)
+* [804. Unique Morse Code Words Youtube](https://youtu.be/cjVHY6GX1QI)
 
