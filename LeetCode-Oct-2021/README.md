@@ -56,3 +56,7 @@
 16. [1534. Count Good Triplets Code](https://github.com/wupangyen/Code-Buff/blob/main/LeetCode-Oct-2021/CountGoodTriplets.java)
 * [1534. Count Good Triplets Youtube](https://youtu.be/XQOxgo5wtJU)
 
+
+17. [804. Unique Morse Code Words Code](https://github.com/wupangyen/Code-Buff/blob/main/LeetCode-Oct-2021/UniqueMorseCodeWords.java)
+* [804. Unique Morse Code Words Youtube](https://youtu.be/XQOxgo5wtJU)
+
