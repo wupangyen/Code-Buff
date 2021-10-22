@@ -62,5 +62,5 @@
 
 
 18. [832. Flipping an Image Code](https://github.com/wupangyen/Code-Buff/blob/main/LeetCode-Oct-2021/FlippinganImage.java)
-* [832. Flipping an Image Youtube](https://youtu.be/cjVHY6GX1QI)
+* [832. Flipping an Image Youtube](https://youtu.be/mfmXejXrKVo)
 
