@@ -60,3 +60,7 @@
 17. [804. Unique Morse Code Words Code](https://github.com/wupangyen/Code-Buff/blob/main/LeetCode-Oct-2021/UniqueMorseCodeWords.java)
 * [804. Unique Morse Code Words Youtube](https://youtu.be/cjVHY6GX1QI)
 
+
+18. [832. Flipping an Image Code](https://github.com/wupangyen/Code-Buff/blob/main/LeetCode-Oct-2021/FlippinganImage.java)
+* [832. Flipping an Image Youtube](https://youtu.be/cjVHY6GX1QI)
+
